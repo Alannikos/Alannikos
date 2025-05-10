@@ -27,7 +27,7 @@ Hi, I'm Alannikos 😉, a programmer 👨🏻‍💻 from B612. I'm an open-sour
 
 - 👨🏻‍💻 I’m currently working on some interesting things....
 - 🌱 I’m currently learning C++ and Python.
-- 🤔 My research interests are with Natural Language Processing, Large Language Models, HPC, etc.
+- 🤔 My research interests are with Natural Language Processing, Large Language Models, Reinforcement Learning, HPC, etc.
 - 💼 I am currently a third-year undergraduate student pursuing a bachelor's degree.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via Alannikos768@outlook.com to reach me.
