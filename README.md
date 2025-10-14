@@ -11,12 +11,15 @@
 </a>
 <a href="https://leetcode.cn/u/alannikos/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
 <a href="https://www.kaggle.com/Alannikos">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-</a>
 <a href="https://space.bilibili.com/3494365446015137">
   <img align="left" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/bilibili.svg" />
+</a>
+<a href="https://www.zhihu.com/people/Alannikos">
+  <img align="left" alt="zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/zhihu.svg" />
 </a>
 
 <br />
