@@ -1,11 +1,8 @@
 ### Welcome to Alannikos's Hut 👋
 
-<a href="https://x.com/Alannikos">
-  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/x.svg" />
-</a>
 <a href="#">
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
-</
+</a>
 <a href="mailto:alannikos768@outlook.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -18,8 +15,8 @@
 <a href="https://space.bilibili.com/3494365446015137">
   <img align="left" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/bilibili.svg" />
 </a>
-<a href="https://www.zhihu.com/people/Alannikos">
-  <img align="left" alt="zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/zhihu.svg" />
+<a href="https://x.com/Alannikos">
+  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/x.svg" />
 </a>
 
 <br />
