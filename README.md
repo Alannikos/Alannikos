@@ -15,9 +15,6 @@
 <a href="https://space.bilibili.com/3494365446015137">
   <img align="left" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/bilibili.svg" />
 </a>
-<a href="https://x.com/Alannikos">
-  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/x.svg" />
-</a>
 
 <br />
 <br />
