@@ -32,4 +32,4 @@ Hi, I'm Alannikos 😉, a programmer 👨🏻‍💻 from B612. I'm an open-sour
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via Alannikos768@outlook.com to reach me.
 
-![Alannikos's github stats](https://github-readme-stats.vercel.app/api?username=Alannikos&show_icons=true&hide_border=true&theme=flag-india)
+![Alannikos's github stats](https://github-readme-stats-cyyin.vercel.app/api?username=Alannikos&show_icons=true&theme=flag-india&hide_border=false&hide_title=false&show_owner=true&disable_animations=false)
